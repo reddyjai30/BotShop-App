@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "51643308532",
+    "project_id": "botsop-15a5f",
+    "storage_bucket": "botsop-15a5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51643308532:android:5354af00233189ece501a1",
+        "android_client_info": {
+          "package_name": "com.Hackthon.botshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51643308532-dn0v9a9qnb03n4epjn52m6avrq2jcp5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Hackthon.botshop",
+            "certificate_hash": "23e5ec5ba660263fb37a6ff559e8c388f3237055"
+          }
+        },
+        {
+          "client_id": "51643308532-uv3nv11i1fhe8jllhs24avkia09sgu8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Hackthon.botshop",
+            "certificate_hash": "d0a4884dc12d0d8fc4f4b0aba15b957ad6217f6d"
+          }
+        },
+        {
+          "client_id": "51643308532-clo824oss78abenb4o7ke5h1s3lobame.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QTN4cCX5JjfwzgysjyuC2a5ITuUUmuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51643308532-clo824oss78abenb4o7ke5h1s3lobame.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

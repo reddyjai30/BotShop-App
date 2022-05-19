@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NoActionBarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <style name="editProfile" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+    </style>
+
+    <style name="chatDetailsTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+    </style>
+
+    <style name="DomainTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/navy_blue</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+    </style>
+
+    <style name="popup_window" parent="Theme.AppCompat">
+      <item name="android:windowIsTranslucent">true</item>
+      <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+
+    <style name="CustomDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:bottomBright">#fff</item>
+        <item name="android:bottomDark">#fff</item>
+        <item name="android:bottomMedium">#fff</item>
+        <item name="android:centerBright">#fff</item>
+        <item name="android:centerDark">#fff</item>
+        <item name="android:centerMedium">#fff</item>
+        <item name="android:fullBright">#7D266A</item>
+        <item name="android:fullDark">#7D266A</item>
+        <item name="android:topBright">#2f6699</item>
+        <item name="android:topDark">#2f6699</item></style>
+
+    </resources>
+
+
